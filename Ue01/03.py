@@ -1,14 +1,5 @@
 import numpy as np
-def fibonaccinumbers():
-    fib = [1,2];
-    while True:
-        sum = fib[-1] + fib[-2];
-        if sum < 4e6:
-            fib.append(sum);
-        else:
-            break;
-    print(np.sum(list(filter(lambda x: x%2 == 0, fib))));
-    return None;
-
 if __name__ == "__main__":
-    fibonaccinumbers();
+    fib = [1,2];
+    list(map(lambda x: fib.append(np.sum(fib[-2:])) if (np.sum(fib[-2:]) < 4e6) else None, range(2,10000)));
+    print(np.sum(list(filter(lambda x: x%2 == 0, fib))));
