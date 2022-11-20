@@ -1,6 +1,7 @@
 # CompPhys Exercises  
-Solutions I worked out for the course Computational Physics at the University of Vienna
-##Results
+Solutions I worked out for the course Computational Physics at the University of Vienna  
+
+## Results
 Ex1: 86/100
 Ex2: 100/100
 Ex3: 100/100
