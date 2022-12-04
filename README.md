@@ -6,6 +6,7 @@ Ex1: 86/100
 Ex2: 100/100  
 Ex3: 100/100  
 Ex4: 0/100 (Since I wasnt able to be present in class and thus I wouldnt get any points, I didnt finish this one)  
-Ex5: 100/100 
+Ex5: 100/100   
+Ex6: 90/100 (-5 for being not in the middle)
 
 
