@@ -9,6 +9,7 @@ Ex4: 0/100 (Since I wasnt able to be present in class and thus I wouldnt get any
 Ex5: 100/100   
 Ex6: 90/100 (-5 for being not in the middle)  
 Ex7: 100/100  
-Ex8: 100/100
+Ex8: 100/100   
+Ex9: 100/100
 
 
